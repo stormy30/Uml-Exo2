@@ -1,7 +1,7 @@
 
 ![cart](https://www.exante.ca/wp-content/uploads/2015/03/1stopshoppingcart.jpg)
 
-# Uml Exo 2 Diagramme cas d'utilisation
+# Uml Exo 2 Diagramme de cas d'utilisation
 
 * Sur un site commercial, un utilisateur peut sélectionner des produits,  
 éventuellement après avoir lu les caractéristiques de chaque produit. 
